@@ -1,6 +1,6 @@
 # Typescript-template
 
-This is designed to give me an instant template for Typescript development enviroment. 
+This is designed to give me an instant template for Typescript development environment. 
 
 
 ### Current Environment Settings
